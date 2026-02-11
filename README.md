@@ -32,4 +32,18 @@ The project provides a clean UI, smooth user experience, and essential shopping 
 ---
 
 ## 📁 Project Structure
-
+urbanathleticsnet-main/
+│
+├── public/ # Static assets
+├── src/
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Application pages
+│ ├── context/ # Context API (Cart, etc.)
+│ ├── hooks/ # Custom hooks
+│ ├── integrations/ # Supabase integration
+│ └── main.tsx # App entry point
+│
+├── supabase/ # Supabase config & functions
+├── package.json
+├── vite.config.ts
+└── README.md
