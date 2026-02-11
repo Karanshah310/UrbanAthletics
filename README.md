@@ -28,3 +28,9 @@ The project provides a clean UI, smooth user experience, and essential shopping 
 
 **Backend / Services**
 - Supabase (Database & Functions)
+
+---
+## 🔗 Live Demo
+
+Check out the live site: https://urbanathletics.in/
+
